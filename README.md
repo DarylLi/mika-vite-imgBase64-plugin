@@ -41,4 +41,3 @@ import logo from './assets/logo.png'
 
 <img width="2542" height="940" alt="image" src="https://github.com/user-attachments/assets/67cd4fde-cc7b-4267-b477-6798451cf2a6" />
 
-
