@@ -39,4 +39,6 @@ import logo from './assets/logo.png'
 3. 将符合条件的图片转换为 Base64 数据 URL
 4. 返回转换后的代码，替换原始导入
 
+<img width="2542" height="940" alt="image" src="https://github.com/user-attachments/assets/67cd4fde-cc7b-4267-b477-6798451cf2a6" />
+
 
